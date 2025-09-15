@@ -4,51 +4,34 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VISHALX33&layout=compact&theme=radical)](https://github.com/VISHALX33)
 
-
-# Hi there 👋, I'm Vishal Prajapati
-
-🚀 **Full-Stack Developer (MERN) | React & Node.js | Open to Software Roles**  
-🌱 Passionate about building scalable web apps, intuitive UIs, and robust backend systems.  
-📍 Based in Jaipur, India  
-
----
-
-## 🔗 Connect with me
-- 🌐 [Portfolio](https://vishal-portfolio-dev.netlify.app/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vishal-prajapati-445799289/)  
-- 💻 [GitHub](https://github.com/VISHALX33)  
-- ✉️ vishalprajapati2303@gmail.com  
-
----
-
-## 💼 Experience
-- **Full Stack Web Developer @ Synilogic Tech** (May 2025 – Jul 2025)  
-  - Built and tested RESTful APIs using Node.js, Firebase & SQL.  
-  - Developed backend microservices for astrology-based apps.  
-
-- **Frontend Developer @ Dooper Health** (Jul 2024 – Aug 2024)  
-  - Created responsive healthcare web pages using Tailwind & React.  
-  - Integrated SEO enhancements and PWA modules.  
-  - Worked on AI-based health bot UI.  
-
----
-
-## 🚀 Projects
-- [**Elite-Crew**](https://elite-crew.netlify.app/) | [GitHub Repo](https://github.com/VISHALX33/elite-crew)  
-  Service + product platform with Razorpay payments, blogs, reviews.  
-  *Tech:* MERN, Tailwind, Multer, Razorpay  
-
-- [**Note-Nest**](https://notenests.netlify.app/) | [GitHub Repo](https://github.com/VISHALX33/NodeNest-main)  
-  Note-sharing platform with real-time chat & JWT auth.  
-  *Tech:* MERN, Tailwind, JWT  
-
----
-
 ## 🛠️ Skills
-- **Languages:** JavaScript, SQL, C/C++, HTML, CSS  
-- **Frameworks/Libraries:** React.js, Next.js, Node.js, Express.js, Tailwind CSS  
-- **Databases:** MongoDB, MySQL  
-- **Tools:** Git/GitHub, Postman, Figma, Vercel, Render, Netlify  
+
+### 🔹 Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)  
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=fff)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)  
+
+### 🔹 Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff)  
+
+### 🔹 Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=fff)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=fff)  
+
+### 🔹 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff)  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff)  
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)  
 
 ---
 
@@ -57,19 +40,3 @@
 - 🚀 Built and deployed full-stack MERN applications with dashboards & file upload features.  
 
 ---
-
-## 📈 GitHub Stats
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VISHALX33&show_icons=true&title_color=22c55e&icon_color=16a34a&text_color=333333&bg_color=ffffff)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VISHALX33&layout=compact&title_color=22c55e&text_color=333333&bg_color=ffffff)
-
----
-
-## 🎓 Education
-- **B.Tech in Computer Science**  
-  Arya College of Engineering (2022 – 2026)  
-  CGPA: 8.5/10  
-
----
-
-⭐️ From [VISHALX33](https://github.com/VISHALX33)
